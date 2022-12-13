@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning and pprogressing my career in React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
--     LinkedIn
--     https://www.linkedin.com/in/yuvraj-sen-a908b91a0
+-     LinkedIn -  https://www.linkedin.com/in/yuvraj-sen-a908b91a0
+-    
 
 <!---
 senny789/senny789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
