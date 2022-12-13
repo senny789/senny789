@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning and pprogressing my career in React JS
 - 💞️ I’m looking to collaborate on ...
 
-<p align="center"><a href="https://www.linkedin.com/in/yuvraj-sen-a908b91a0"><img src="https://i.stack.imgur.com/gVE0j.png" width="28px"/></a>LinkedIn</p>
+<p align="center"><a href="https://www.linkedin.com/in/yuvraj-sen-a908b91a0"><img src="https://i.stack.imgur.com/gVE0j.png" width="28px"/></a></p>
 
 <!---
 senny789/senny789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
