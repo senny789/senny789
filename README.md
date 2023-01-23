@@ -4,6 +4,7 @@
 
 <h1 align="center">👋 Hi, I’m @senny789 </h1><br>
 <h2 align="center"> Trying to learn new things .. exploring and growing</h2><br>
+<h2 align="center"> Tech Stack : MERN Stack : Full Stack </h2><br>
  <h3 align="center">🌱 I’m currently learning and progressing my career in React JS</h3>
 
 
