@@ -3,7 +3,10 @@
 </p>
 
 <h1 align="center">👋 Hi, I’m @senny789 </h1>
-<h2 align="center"> Trying to learn new things .. exploring and growing</h2>
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=Learning+and+Growing;Student+of+computer+science+and+IT;Specializing+The+Frontend."></a>
+
+</p>
  <h3 align="center">🌱 I’m currently learning and progressing my career in React JS / Next JS</h3>
 
 ## 📊 Stats
