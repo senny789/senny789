@@ -19,6 +19,15 @@
  </a>
  
 </p>
+<p align="center">
+ <a href="https://github.com/nightmaregaurav">
+   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightmaregaurav&theme=algolia" alt="Gaurav's GitHub Stats" />
+ </a>
+ 
+ <a href="https://github.com/nightmaregaurav">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nightmaregaurav" alt="nightmare-gaurav" />
+ </a>
+</p>
 
 <br/>
 <p align="center">I’m looking to collaborate on ...<a href="https://www.linkedin.com/in/yuvraj-sen-a908b91a0"><img src="https://i.stack.imgur.com/gVE0j.png" width="28px"/></a></p>
