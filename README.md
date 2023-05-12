@@ -1,11 +1,10 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/51574734/207301333-1f4c7844-2a36-4269-862e-859783653b66.png" width="500px"/>
+<img src="https://user-images.githubusercontent.com/51574734/207301333-1f4c7844-2a36-4269-862e-859783653b66.png" width="400px" />
 </p>
 
-<h1 align="center">👋 Hi, I’m @senny789 </h1><br>
-<h2 align="center"> Trying to learn new things .. exploring and growing</h2><br>
-<h2 align="center"> Tech Stack : MERN Stack : Full Stack </h2><br>
- <h3 align="center">🌱 I’m currently learning and progressing my career in React JS</h3>
+<h1 align="center">👋 Hi, I’m @senny789 </h1>
+<h2 align="center"> Trying to learn new things .. exploring and growing</h2>
+ <h3 align="center">🌱 I’m currently learning and progressing my career in React JS / Next JS</h3>
 
 ## 📊 Stats
 <p align="center">
