@@ -20,12 +20,12 @@
  
 </p>
 <p align="center">
- <a href="https://github.com/nightmaregaurav">
-   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightmaregaurav&theme=algolia" alt="Gaurav's GitHub Stats" />
+ <a href="https://github.com/senny789">
+   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senny789&theme=algolia" alt="senny's GitHub Stats" />
  </a>
  
- <a href="https://github.com/nightmaregaurav">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nightmaregaurav" alt="nightmare-gaurav" />
+ <a href="https://github.com/senny789">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senny789" alt="senny" />
  </a>
 </p>
 
