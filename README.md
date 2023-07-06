@@ -12,14 +12,7 @@
 ## 📊 Stats
 <p align="center">
  
- <a href="https://github.com/senny789">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senny789&show_icons=true&langs_count=5&layout=default&hide_border=false&" alt="Sennys's GitHub Stats"/>
- </a>
- 
- <a href="https://github.com/senny789">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=senny789&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&line_height=48" alt="Senny's GitHub Stats" />
- </a>
- 
+
 </p>
 <p align="center">
  <a href="https://github.com/senny789">
